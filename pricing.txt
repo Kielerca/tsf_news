@@ -1,5 +1,39 @@
 <div class="text-center">
-  <h4>1 Member- $43</h4>
-  <h4>2 Members- $76</h4>
-</div>
+  <table class="table table-bordered" style="width: 50%; margin: auto; margin-bottom: 20px;">
+    <thead>
+      <tr>
+        <th>Members</th>
+        <th>Price</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1 Member</td>
+        <td>$43</td>
+      </tr>
+      <tr>
+        <td>2 Members</td>
+        <td>$76</td>
+      </tr>
+    </tbody>
+  </table>
 
+  <table class="table table-bordered" style="width: 50%; margin: auto;">
+    <thead>
+      <tr>
+        <th>Duration</th>
+        <th>Price</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>6 Months</td>
+        <td>$250</td>
+      </tr>
+      <tr>
+        <td>12 Months</td>
+        <td>$450</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
