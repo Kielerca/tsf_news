@@ -1,31 +1,31 @@
 {
   "drinks": [
     {
-      "name": "Coca Cola",
-      "price": "$1.50",
-      "photoUrl": "http://example.com/photos/coca_cola.jpg"
+      "name": "Fairlife Protien Shake",
+      "price": "$3.50",
+      "photoUrl": "https://fairlife.com/wp-content/uploads/2023/05/Productcp-chocolate-26g-2023.webp"
     },
     {
-      "name": "Pepsi",
-      "price": "$1.50",
-      "photoUrl": "http://example.com/photos/pepsi.jpg"
+      "name": "Anani Energy",
+      "price": "$3.50",
+      "photoUrl": "https://www.alaninu.com/cdn/shop/files/AN_energy_1serve_12oz_US_Breezeberry_PROFILE_web_1200x.png?v=1699461297"
     },
     {
-      "name": "Orange Juice",
-      "price": "$2.00",
-      "photoUrl": "http://example.com/photos/orange_juice.jpg"
+      "name": "Owyn Protien Shake",
+      "price": "$3.00",
+      "photoUrl": "https://cdn.sanity.io/images/l5pf5h4v/store/a41a1224359ed25e5449a2036afd4cf1caa64dec-954x1762.png?w=954&h=1762&fit=max&auto=format"
     }
   ],
   "apparel": [
     {
       "name": "T-Shirt",
       "price": "$15.00",
-      "photoUrl": "http://example.com/photos/tshirt.jpg"
+      "photoUrl": "https://owayo-cdn.com/cdn-cgi/image/format=auto,fit=contain,width=490/newhp/img/productHome/productSeitenansicht/productservice/tshirts_classic_herren_basic_productservice/st2020_whi.png"
     },
     {
       "name": "Hoodie",
       "price": "$30.00",
-      "photoUrl": "http://example.com/photos/hoodie.jpg"
+      "photoUrl": "https://img.freepik.com/premium-psd/white-hoodie-isolated-transparent-background-png_1073071-1088.jpg"
     }
   ]
 }
