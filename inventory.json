@@ -15,5 +15,18 @@
       "price": "$2.00",
       "photoUrl": "http://example.com/photos/orange_juice.jpg"
     }
+  ],
+  "apparel": [
+    {
+      "name": "T-Shirt",
+      "price": "$15.00",
+      "photoUrl": "http://example.com/photos/tshirt.jpg"
+    },
+    {
+      "name": "Hoodie",
+      "price": "$30.00",
+      "photoUrl": "http://example.com/photos/hoodie.jpg"
+    }
   ]
 }
+
