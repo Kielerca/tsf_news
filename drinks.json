@@ -1,0 +1,19 @@
+{
+  "drinks": [
+    {
+      "name": "Coca Cola",
+      "price": "$1.50",
+      "photoUrl": "http://example.com/photos/coca_cola.jpg"
+    },
+    {
+      "name": "Pepsi",
+      "price": "$1.50",
+      "photoUrl": "http://example.com/photos/pepsi.jpg"
+    },
+    {
+      "name": "Orange Juice",
+      "price": "$2.00",
+      "photoUrl": "http://example.com/photos/orange_juice.jpg"
+    }
+  ]
+}
