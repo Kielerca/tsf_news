@@ -1,39 +1,22 @@
-<div class="text-center">
-  <table class="table table-bordered" style="width: 50%; margin: auto; margin-bottom: 20px;">
-    <thead>
-      <tr>
-        <th>Members</th>
-        <th>Price</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>1 Member</td>
-        <td>$43</td>
-      </tr>
-      <tr>
-        <td>2 Members</td>
-        <td>$76</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <table class="table table-bordered" style="width: 50%; margin: auto;">
-    <thead>
-      <tr>
-        <th>Duration</th>
-        <th>Price</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>6 Months</td>
-        <td>$250</td>
-      </tr>
-      <tr>
-        <td>12 Months</td>
-        <td>$450</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{
+  "membersPricing": [
+    {
+      "members": "1 Member",
+      "price": "$43"
+    },
+    {
+      "members": "2 Members",
+      "price": "$76"
+    }
+  ],
+  "durationPricing": [
+    {
+      "duration": "6 Months",
+      "price": "$250"
+    },
+    {
+      "duration": "12 Months",
+      "price": "$450"
+    }
+  ]
+}
