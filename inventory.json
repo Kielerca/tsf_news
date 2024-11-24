@@ -14,7 +14,22 @@
       "name": "Owyn Protien Shake",
       "price": "$3.00",
       "photoUrl": "https://cdn.sanity.io/images/l5pf5h4v/store/a41a1224359ed25e5449a2036afd4cf1caa64dec-954x1762.png?w=954&h=1762&fit=max&auto=format"
-    }
+    },
+    {
+      "name": "Prime Hydration",
+      "price": "$3.00",
+      "photoUrl": "https://www.decrescente.com/wp-content/uploads/2024/07/tropical-punch-bottle-lg-15.png"
+    },
+    {
+      "name": "ZOA Energy",
+      "price": "$3.50",
+      "photoUrl": "https://149594571.v2.pressablecdn.com/wp-content/uploads/2023/02/tram-zao-super-berry.png"
+    },
+    {
+      "name": "Water",
+      "price": "$1.00",
+      "photoUrl": "https://pngimg.com/d/water_bottle_PNG10169.png"
+    },
   ],
   "apparel": [
     {
