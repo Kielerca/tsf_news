@@ -20,8 +20,8 @@
     {
       "name": "District Perfect Tri Tee",
       "price": "$19.75",
-      "type": "Mens"
-      "colors": "4"
+      "type": "Mens",
+      "colors": "4",
       "photoUrl": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/7fdec0d23e5c4edd4f16fbbc190eb878bc7f3410.png"
     },
     {
@@ -29,6 +29,9 @@
       "price": "$30.00",
       "photoUrl": "https://img.freepik.com/premium-psd/white-hoodie-isolated-transparent-background-png_1073071-1088.jpg"
     }
-  ]
+  ],
+  "onlineStoreUrl": "https://tristatefitness.itemorder.com/shop/home/" ,
+  "onlineStoreQR": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/storeQR.png" ,
+  "onlineStoreIsActive": true
 }
 
