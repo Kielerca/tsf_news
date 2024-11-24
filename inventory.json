@@ -21,7 +21,7 @@
       "name": "District Perfect Tri Tee",
       "price": "$19.75",
       "type": "Mens",
-      "colors": "4",
+      "colors": 4,
       "photoUrl": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/7fdec0d23e5c4edd4f16fbbc190eb878bc7f3410.png"
     },
     {
