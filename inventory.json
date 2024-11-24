@@ -27,7 +27,9 @@
     {
       "name": "Hoodie",
       "price": "$30.00",
-      "photoUrl": "https://img.freepik.com/premium-psd/white-hoodie-isolated-transparent-background-png_1073071-1088.jpg"
+      "photoUrl": "https://img.freepik.com/premium-psd/white-hoodie-isolated-transparent-background-png_1073071-1088.jpg",
+      "type": "Mens",
+      "colors": 4,
     }
   ],
   "onlineStoreUrl": "https://tristatefitness.itemorder.com/shop/home/" ,
