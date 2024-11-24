@@ -39,6 +39,10 @@
      {
        "name": "OtherClothes",
        "enabled": true
+     },
+     {
+       "name": "OnlineStoreCode",
+       "enabled": true
      }
    ]
  }
