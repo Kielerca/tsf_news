@@ -18,9 +18,11 @@
   ],
   "apparel": [
     {
-      "name": "T-Shirt",
-      "price": "$15.00",
-      "photoUrl": "https://owayo-cdn.com/cdn-cgi/image/format=auto,fit=contain,width=490/newhp/img/productHome/productSeitenansicht/productservice/tshirts_classic_herren_basic_productservice/st2020_whi.png"
+      "name": "District Perfect Tri Tee",
+      "price": "$19.75",
+      "type": "Mens"
+      "colors": "4"
+      "photoUrl": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/7fdec0d23e5c4edd4f16fbbc190eb878bc7f3410.png"
     },
     {
       "name": "Hoodie",
