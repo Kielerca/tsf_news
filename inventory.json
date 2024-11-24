@@ -25,12 +25,68 @@
       "photoUrl": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/7fdec0d23e5c4edd4f16fbbc190eb878bc7f3410.png"
     },
     {
-      "name": "Hoodie",
-      "price": "$30.00",
-      "photoUrl": "https://img.freepik.com/premium-psd/white-hoodie-isolated-transparent-background-png_1073071-1088.jpg",
+      "name": "District Perfect Blend Cvc Long Sleeve Tee",
+      "price": "$25.00",
       "type": "Mens",
-      "colors": 4
-    }
+      "colors": 4,
+      "photoUrl": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/7fdec0d23e5c4edd4f16fbbc190eb878bc7f3410.png"
+    },
+    {
+      "name": "New Era Comeback Fleece Pullover Hoodie",
+      "price": "$35.00",
+      "type": "Mens",
+      "colors": 4,
+      "photoUrl": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/7fdec0d23e5c4edd4f16fbbc190eb878bc7f3410.png"
+    },
+    {
+      "name": "District The Concert Fleece Hoodie",
+      "price": "$29.75",
+      "type": "Mens",
+      "colors": 4,
+      "photoUrl": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/7fdec0d23e5c4edd4f16fbbc190eb878bc7f3410.png"
+    },
+    {
+      "name": "New Era Ladies French Terry Pullover Hoodie",
+      "price": "$47/5-",
+      "type": "Womens",
+      "colors": 4,
+      "photoUrl": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/7fdec0d23e5c4edd4f16fbbc190eb878bc7f3410.png"
+    },
+    {
+      "name": "District Youth V.I.T. Fleece Hoodie",
+      "price": "$25.00",
+      "type": "Mens",
+      "colors": 4,
+      "photoUrl": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/7fdec0d23e5c4edd4f16fbbc190eb878bc7f3410.png"
+    },
+    {
+      "name": "Polar Camel Water Bottle",
+      "price": "$27.00",
+      "type": "Mens",
+      "colors": 4,
+      "photoUrl": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/7fdec0d23e5c4edd4f16fbbc190eb878bc7f3410.png"
+    },
+    {
+      "name": "Sportsman 12 Pom-Pom Cuffed Beanie",
+      "price": "$22.00",
+      "type": "Mens",
+      "colors": 4,
+      "photoUrl": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/7fdec0d23e5c4edd4f16fbbc190eb878bc7f3410.png"
+    },
+    {
+      "name": "Flexfit Adult 6-Panel Trucker Cap",
+      "price": "$22.00",
+      "type": "Mens",
+      "colors": 4,
+      "photoUrl": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/7fdec0d23e5c4edd4f16fbbc190eb878bc7f3410.png"
+    },
+    {
+      "name": "Yupoong Classics Retro Trucker Cap 2-Tone",
+      "price": "$22.00",
+      "type": "Mens",
+      "colors": 4,
+      "photoUrl": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/7fdec0d23e5c4edd4f16fbbc190eb878bc7f3410.png"
+    },
   ],
   "onlineStoreUrl": "https://tristatefitness.itemorder.com/shop/home/" ,
   "onlineStoreQR": "https://raw.githubusercontent.com/Kielerca/tsf_news/refs/heads/main/imgs/storeQR.png" ,
