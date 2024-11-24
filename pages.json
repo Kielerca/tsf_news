@@ -1,0 +1,44 @@
+ {
+   "pages": [
+     {
+       "name": "Pricing",
+       "enabled": true
+     },
+     {
+       "name": "News",
+       "enabled": true
+     },
+     {
+       "name": "Quote",
+       "enabled": true
+     },
+     {
+       "name": "Thorne",
+       "enabled": true
+     },
+     {
+       "name": "GymMaster",
+       "enabled": true
+     },
+     {
+       "name": "Weekly",
+       "enabled": true
+     },
+     {
+       "name": "Inventory",
+       "enabled": true
+     },
+     {
+       "name": "MensClothes",
+       "enabled": true
+     },
+     {
+       "name": "WomensClothes",
+       "enabled": true
+     },
+     {
+       "name": "OtherClothes",
+       "enabled": true
+     }
+   ]
+ }
