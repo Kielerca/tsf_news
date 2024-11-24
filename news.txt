@@ -1,5 +1,7 @@
 <div class="text-center">
   <h3>Announcements</h3>
+         <br />
+         <br />
   <h4>Hello, This is an example of an announcement</h6>
 </div>
 
