@@ -11,10 +11,6 @@
   ],
   "durationPricing": [
     {
-      "duration": "1 Day Guest Pass",
-      "price": "$15"
-    },
-    {
       "duration": "6 Months",
       "price": "$250"
     },
