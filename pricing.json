@@ -17,6 +17,10 @@
     {
       "duration": "12 Months",
       "price": "$450"
+    },
+    {
+      "duration": "1 Day Guest Pass",
+      "price": "$15"
     }
   ]
 }
