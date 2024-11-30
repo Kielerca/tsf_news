@@ -43,6 +43,10 @@
      {
        "name": "OnlineStoreCode",
        "enabled": true
+     },
+     {
+       "name": "Supplements",
+       "enabled": true
      }
    ]
  }
