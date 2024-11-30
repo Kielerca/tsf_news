@@ -47,6 +47,10 @@
      {
        "name": "Supplements",
        "enabled": true
+     },
+     {
+       "name": "Weather",
+       "enabled": true
      }
    ]
  }
