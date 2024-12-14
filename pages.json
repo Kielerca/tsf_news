@@ -51,6 +51,10 @@
      {
        "name": "Weather",
        "enabled": true
+     },
+     {
+       "name": "Ads",
+       "enabled": true
      }
    ]
  }
