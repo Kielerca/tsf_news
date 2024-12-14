@@ -1,8 +1,8 @@
 <div class="text-center">
-  <h3>Online Apparel Store Open</h3>
+  <h3>Happy Holidays!</h3>
          <br />
          <br />
-  <h4>Deadline December 2nd</h6>
+  <h4>Tristate Fitness wants to wish you all a happy and safe Holiday season!</h6>
 </div>
 
 
