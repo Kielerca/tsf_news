@@ -30,19 +30,19 @@
      },
      {
        "name": "MensClothes",
-       "enabled": true
+       "enabled": false
      },
      {
        "name": "WomensClothes",
-       "enabled": true
+       "enabled": false
      },
      {
        "name": "OtherClothes",
-       "enabled": true
+       "enabled": false
      },
      {
        "name": "OnlineStoreCode",
-       "enabled": true
+       "enabled": false
      },
      {
        "name": "Supplements",
