@@ -1,8 +1,10 @@
 <div class="text-center">
-  <h3>Happy Holidays!</h3>
+  <h3>Happy New Year!</h3>
          <br />
          <br />
-  <h6>Tristate Fitness wants to wish you all a happy and safe Holiday season!</h6>
+  <h6>🎉 Happy New Year from all of us at Tri-State Fitness! 🎉  
+<br />
+Let’s make 2025 the year of progress and strength!</h6>
 </div>
 
 
