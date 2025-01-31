@@ -2,11 +2,11 @@
   "membersPricing": [
     {
       "members": "1 Member",
-      "price": "$43"
+      "price": "$45"
     },
     {
       "members": "2 Members",
-      "price": "$76"
+      "price": "$80"
     }
   ],
   "durationPricing": [
